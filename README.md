@@ -1,3 +1,3 @@
 # homew1ic
-homework1 imageC
+homework week1 image classification using mobilenet
 https://glitch.com/~acoustic-flower
